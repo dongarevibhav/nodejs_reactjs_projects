@@ -89,3 +89,25 @@ align-content: center;
     opacity: 0.2;
     background-color: white;
 }
+
+.add-btn{
+    background-color: rgb(35, 226, 9) !important;
+    border: none !important;
+}
+
+.edit-btn{
+    background-color: rgb(255, 136, 0) !important;
+    border: none !important;
+}
+
+/* show ejs */
+.show-img{
+    height: 20rem;
+    
+}
+
+/* show card */
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
+}
